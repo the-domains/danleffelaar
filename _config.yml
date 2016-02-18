@@ -1,0 +1,28 @@
+name: danleffelaar
+favicon: null
+layout_spectrum: 0.017089201835915446
+typography_spectrum: 0.00709260324947536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3790346793830395
+  lightness: 0.9864688352681696
+  saturation: 0.7889118476305157
+  rhythmicContrast: 0.025871373945847154
+purpose: []
