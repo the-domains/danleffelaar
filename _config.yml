@@ -1,28 +1,40 @@
-name: danleffelaar
-favicon: null
-layout_spectrum: 0.017089201835915446
-typography_spectrum: 0.00709260324947536
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3790346793830395
-  lightness: 0.9864688352681696
-  saturation: 0.7889118476305157
-  rhythmicContrast: 0.025871373945847154
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6362007
+  brandStrength: 0.3790346793830395
+  lightness: 0.5555556
+  brandColors:
+    - '#ACA59B'
+    - '#3D3D3B'
+    - '#EAD7B7'
+    - '#221E1C'
+    - '#986B42'
+  rhythmicContrast: 0.02587137
+typography_spectrum: 0.7132617
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4910394
+favicon: null
+name: danleffelaar
